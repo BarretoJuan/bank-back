@@ -4,6 +4,7 @@
 /build
 /tmp
 
+
 # Logs
 logs
 *.log
@@ -22,3 +23,5 @@ lerna-debug.log*
 # temp directory
 .temp
 .tmp
+
+.DS_Store
